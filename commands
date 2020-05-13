@@ -1,0 +1,2 @@
+#run syslog-ng in debug in foreground
+syslog-ng -Fdv
